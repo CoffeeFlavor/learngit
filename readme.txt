@@ -1,2 +1,2 @@
-Git is a distributed version control system.
-Git is free software.
+git 你好，现在学习你有点迟到
+是的
