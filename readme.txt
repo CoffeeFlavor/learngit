@@ -6,3 +6,4 @@ git 你好，现在学习你有点迟到
 回退版本
 stage test
 git add one
+git no add and commit
